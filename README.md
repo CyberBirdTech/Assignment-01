@@ -6,3 +6,7 @@
 ![05 Details-area](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/bd4a6473-f58d-4fa7-a5c1-330846de8cb7)
 ![06 newslater-area](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/ecae0e42-4eed-43c1-b1a5-a56e8fb127dd)
 ![07 footer-area](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/5a1e8ea4-48e6-4341-889c-1d25a64eca7f)
+![mobile](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/8c5f9fa0-208c-446e-8134-fa02d27dfbac)
+![list](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/e67d38d4-0553-45dd-89d4-c0beee77248a)
+![gear](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/f2378d5a-35de-4086-8877-e4fa27534f92)
+![globe](https://github.com/CyberBirdTech/Assignment-01/assets/134167399/facd9cfa-ed46-4920-b5c2-93b3f8e7bdb8)
